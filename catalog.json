@@ -1,0 +1,70 @@
+{
+    "product": [
+        {
+            "id":1,
+            "name":"Iphone 12 pro",
+            "desc":"Iphone 12 pro",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQseTv5cPDBgWmu-fQpR0hKtVKGDxzfdutYKA&s"
+            
+        },
+        {
+            "id":2,
+            "name":"Pixal 5",
+            "desc":"Pixal 5",
+            "price":299,
+            "color":"#eb0fae",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JSShGPlWCx6XOHPYeUMDmDJAqlDfmDQvvg&s"  
+        },
+        {
+            "id":3,
+            "name":"Samsung s23",
+            "desc":"Samsung s23",
+            "price":989,
+            "color":"#033ac51",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQseTv5cPDBgWmu-fQpR0hKtVKGDxzfdutYKA&s"
+        },
+        {
+            "id":4,
+            "name":"Oneplus 5",
+            "desc":"Oneplus 5",
+            "price":929,
+            "color":"#544ee4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFqvzXM23sIxtdjevSgvUTu_nqAbQt0mgOg&s"
+        },
+        {
+            "id":5,
+            "name":"Macbook",
+            "desc":"Macbook",
+            "price":1354,
+            "color":"#FF0000",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba13-midnight-config-202402?wid=820&hei=498&fmt=jpeg&qlt=90&.v=1708371033110"
+
+        },
+        {
+            "id":6,
+            "name":"Airpod",
+            "desc":"Airpod",
+            "price":459,
+            "color":"#15f4ee",
+            "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTex7BI6Zgbt8YDadZDL-vg3-U9n6jjb-o5BIftUFltyaVs-NW6vSsedpDVZgK8VY0TH00Yj2Aax8p_R99SHcg9dFKWbvHwKMK5UMJstzb30F71UPsXq_81OFcJ921EFCyOY4x729VKrY&usqp=CAc"
+        },
+        {
+            "id":7,
+            "name":"Samsung 21 ultra",
+            "desc":"Samsung 21 ultra",
+            "price":659,
+            "color":"#E072A4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjkYR5Uqp4zufZ_hoAibQm9-5SLcHG6JIBQ&s"
+        },
+        {
+            "id":8,
+            "name":"Boat Airdops",
+            "desc":"Boat Airdops",
+            "price":989,
+            "color":"#0A2887",
+            "image":"https://www.boat-lifestyle.com/cdn/shop/products/c2386af9-4349-432f-8ba5-2b6aa06025c8_600x.png?v=1668756103"
+        }
+    ]
+}
